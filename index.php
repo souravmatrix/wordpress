@@ -7,7 +7,9 @@
 </head>
 
 <body>
-    <header> This is my new header</header>
+    <header> This is my new header <dir>for loop for session cart display</dir>
+        locial iconlisting
+    </header>
     <p> Content willl come here</p>
     <footer>This is my awesome footer</footer>
 </body>
