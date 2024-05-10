@@ -7,7 +7,9 @@
 </head>
 
 <body>
-    <h1>Thi is my forst page</h1>
+    <header> This is my new header</header>
+    <p> Content willl come here</p>
+    <footer>This is my awesome footer</footer>
 </body>
 
 </html>
